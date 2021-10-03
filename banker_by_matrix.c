@@ -41,7 +41,7 @@ void main(){
     printf("\nMax array is :\n");
     for(int i=0;i<n;i++)
     {
-        for(int j=0;j<m;j++)
+        for(int j=0;j <m;j++)
         {
             printf("%d ",max[i][j]);
         }
